@@ -11,7 +11,7 @@
   <version>1.0.0</version>
 
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
-  <groupId>SajjiKazemi</groupId>
+  <groupId>sajjikazemi</groupId>
 
   <distributionManagement>
     <repository>
@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/SajjiKazemi/github_actions_practice</url>
+      <url>https://maven.pkg.github.com/sajjikazemi/github_actions_practice</url>
 
     </repository>
   </distributionManagement>
